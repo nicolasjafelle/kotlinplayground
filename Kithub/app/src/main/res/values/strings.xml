@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KITHUB</string>
+
+    <string name="retry">RETRY</string>
+    <string name="connection_error">THERE WAS A PROBLEM WHILE CONNECTING</string>
+    <string name="refresh">REFRESH</string>
+    <string name="no_content">THERE IS NO CONTENT TO DISPLAY</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="connection_error_try_again">THERE WAS A PROBLEM WHILE CONNECTING! CHECK YOUR CONNECTION AND TRY AGAIN!</string>
+    <string name="problem_while_connecting">PROBLEM WHILE CONNECTING %1$d | %2$s</string>
+    <string name="no_info_available">No information available</string>
+    <string name="repo_detail">Repository Detail</string>
+    <string name="search_for_repo">Search for repository\'s name</string>
+    <string name="search">Search</string>
+    <string name="search_not_empty">Search cannot be empty!</string>
+    <string name="show_all">Show All</string>
+    <string name="search_repository">Search repository…</string>
+    <string name="no_matches">NO REPOSITORIES FOUND FOR YOUR QUERY</string>
+    <string name="name">NAME</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="owner_id">OWNER ID</string>
+    <string name="owner_username">OWNER USERNAME</string>
+</resources>

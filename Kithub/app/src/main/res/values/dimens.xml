@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="card_radius">2dp</dimen>
+
+    <dimen name="small_separation">5dp</dimen>
+    <dimen name="base_separation">10dp</dimen>
+    <dimen name="medium_separation">20dp</dimen>
+    <dimen name="large_separation">30dp</dimen>
+    <dimen name="xlarge_separation">40dp</dimen>
+
+    <dimen name="loading_view_dimen">60dp</dimen>
+
+    <dimen name="search_icon_padding">16dp</dimen>
+    <dimen name="search_view_text_padding">65dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+
+    <dimen name="reveal">25dp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="xlarge_text">20sp</dimen>
+    <dimen name="chips_radius">50dp</dimen>
+    <dimen name="app_bar_height">290dp</dimen>
+</resources>

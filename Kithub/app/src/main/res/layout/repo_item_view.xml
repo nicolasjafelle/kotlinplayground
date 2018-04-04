@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/repo_item_view_image"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="@color/transparentColorPrimary"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/repo_item_view_fullname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/base_separation"
+            android:textSize="@dimen/large_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/repo_item_view_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/base_separation"
+            android:layout_marginLeft="@dimen/base_separation"
+            android:layout_marginRight="@dimen/base_separation" />
+    </LinearLayout>
+
+</merge>

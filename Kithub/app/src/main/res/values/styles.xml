@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="MaterialToolbar">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:color">@color/white</item>
+
+    </style>
+
+</resources>

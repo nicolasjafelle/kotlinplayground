@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:duration="@integer/enter_transition"
+    android:interpolator="@android:interpolator/accelerate_decelerate"
+    tools:targetSdkVersion="19">
+    <fade>
+        <targets>
+            <target android:excludeId="@android:id/statusBarBackground" />
+            <target android:excludeId="@android:id/navigationBarBackground" />
+        </targets>
+
+    </fade>
+
+    <slide android:slideEdge="top">
+        <targets>
+            <target android:targetId="@id/fragment_detail_name_label" />
+            <target android:targetId="@id/fragment_detail_fullname_label" />
+            <target android:targetId="@id/fragment_detail_description_label" />
+        </targets>
+    </slide>
+
+    <slide android:slideEdge="bottom">
+        <targets>
+            <target android:targetId="@id/fragment_detail_second_linear" />
+        </targets>
+
+    </slide>
+</transitionSet>

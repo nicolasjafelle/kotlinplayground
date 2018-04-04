@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transition_name">Cool Transition</string>
+
+    <integer name="fragment_fade_in_duration">250</integer>
+
+    <integer name="enter_transition">700</integer>
+    <integer name="exit_transition">500</integer>
+</resources>
